@@ -1,0 +1,334 @@
+X Lossless Decoder version 20151214 (149.1)
+
+XLD extraction logfile from 2016-04-02 02:38:59 -0700
+
+Red Hot Chili Peppers / Californication
+
+Used drive : Apple SuperDrive (revision 2.00)
+Media type : Pressed CD
+
+Ripper mode             : XLD Secure Ripper
+Disable audio cache     : OK for the drive with a cache less than 1375KiB
+Make use of C2 pointers : YES
+Read offset correction  : 0
+Max retry count         : 20
+Gap status              : Analyzed, Appended (except HTOA)
+
+TOC of the extracted CD
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  | 00:00:33 | 03:58:55 |        33    |    17937   
+        2  | 03:59:13 | 04:30:42 |     17938    |    38229   
+        3  | 08:29:55 | 03:37:28 |     38230    |    54532   
+        4  | 12:07:08 | 04:15:67 |     54533    |    73724   
+        5  | 16:23:00 | 03:18:05 |     73725    |    88579   
+        6  | 19:41:05 | 05:21:43 |     88580    |   112697   
+        7  | 25:02:48 | 03:51:25 |    112698    |   130047   
+        8  | 28:53:73 | 02:43:52 |    130048    |   142324   
+        9  | 31:37:50 | 04:00:15 |    142325    |   160339   
+       10  | 35:37:65 | 02:37:48 |    160340    |   172162   
+       11  | 38:15:38 | 03:45:15 |    172163    |   189052   
+       12  | 42:00:53 | 04:52:30 |    189053    |   210982   
+       13  | 46:53:08 | 04:13:27 |    210983    |   229984   
+       14  | 51:06:35 | 01:52:40 |    229985    |   238424   
+       15  | 52:59:00 | 03:25:40 |    238425    |   253839   
+
+List of alternate offset correction values
+        #  | Absolute | Relative | Confidence 
+    ------------------------------------------
+        1  |      6   |      6   |     147     
+        2  |   -658   |   -658   |     21     
+
+AccurateRip Summary (DiscID: 00203d83-016a52dc-d60d380f)
+    Track 01 : OK (v1+v2, confidence 145/165, with different offset)
+    Track 02 : OK (v1+v2, confidence 144/164, with different offset)
+    Track 03 : OK (v1+v2, confidence 145/166, with different offset)
+    Track 04 : OK (v1+v2, confidence 147/166, with different offset)
+    Track 05 : OK (v1+v2, confidence 144/164, with different offset)
+    Track 06 : OK (v1+v2, confidence 146/167, with different offset)
+    Track 07 : OK (v1+v2, confidence 145/165, with different offset)
+    Track 08 : OK (v1+v2, confidence 145/165, with different offset)
+    Track 09 : OK (v1+v2, confidence 143/164, with different offset)
+    Track 10 : OK (v1+v2, confidence 145/165, with different offset)
+    Track 11 : OK (v1+v2, confidence 144/163, with different offset)
+    Track 12 : OK (v1+v2, confidence 144/164, with different offset)
+    Track 13 : OK (v1+v2, confidence 145/166, with different offset)
+    Track 14 : OK (v1+v2, confidence 144/165, with different offset)
+    Track 15 : OK (v1+v2, confidence 133/161, with different offset)
+        ->All tracks accurately ripped.
+
+All Tracks
+    Album gain               : -12.89 dB
+    Peak                     : 1.000000
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 01
+    Filename : /Volumes/HD1/Google Drive/Music/Red Hot Chili Peppers/[1999] Californication/01 - Around the World.m4a
+    Pre-gap length : 00:02:33
+
+    Track gain               : -12.54 dB
+    Peak                     : 1.000000
+    CRC32 hash (test run)    : 3EF4A844
+    CRC32 hash               : 3EF4A844
+    CRC32 hash (skip zero)   : AF02B193
+    AccurateRip v1 signature : C5AE16E7 (5A8C16E3 w/correction)
+    AccurateRip v2 signature : 96D13FB9 (29D1598E w/correction)
+        ->Accurately ripped with different offset (v1+v2, confidence 61+84/165, offset +6)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 02
+    Filename : /Volumes/HD1/Google Drive/Music/Red Hot Chili Peppers/[1999] Californication/02 - Parallel Universe.m4a
+    Pre-gap length : 00:00:15
+
+    Track gain               : -14.21 dB
+    Peak                     : 0.988556
+    CRC32 hash (test run)    : 15C86B1E
+    CRC32 hash               : 15C86B1E
+    CRC32 hash (skip zero)   : 17C4DA5B
+    AccurateRip v1 signature : 496DE6FC (F586B7B6 w/correction)
+    AccurateRip v2 signature : 0A807040 (B74596CB w/correction)
+        ->Accurately ripped with different offset (v1+v2, confidence 59+85/164, offset +6)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 03
+    Filename : /Volumes/HD1/Google Drive/Music/Red Hot Chili Peppers/[1999] Californication/03 - Scar Tissue.m4a
+
+    Track gain               : -11.76 dB
+    Peak                     : 1.000000
+    CRC32 hash (test run)    : 1D245A62
+    CRC32 hash               : 1D245A62
+    CRC32 hash (skip zero)   : FA9B4855
+    AccurateRip v1 signature : AA9FD5B4 (1EE05BF8 w/correction)
+    AccurateRip v2 signature : F86DE66E (6AF9C71E w/correction)
+        ->Accurately ripped with different offset (v1+v2, confidence 61+84/166, offset +6)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 04
+    Filename : /Volumes/HD1/Google Drive/Music/Red Hot Chili Peppers/[1999] Californication/04 - Otherside.m4a
+    Pre-gap length : 00:00:63
+
+    Track gain               : -13.07 dB
+    Peak                     : 0.988556
+    CRC32 hash (test run)    : 1B925115
+    CRC32 hash               : 1B925115
+    CRC32 hash (skip zero)   : 36A73F6B
+    AccurateRip v1 signature : B9ACCA51 (1B0C5032 w/correction)
+    AccurateRip v2 signature : B88614AF (19E979A8 w/correction)
+        ->Accurately ripped with different offset (v1+v2, confidence 61+86/166, offset +6)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 05
+    Filename : /Volumes/HD1/Google Drive/Music/Red Hot Chili Peppers/[1999] Californication/05 - Get on Top.m4a
+
+    Track gain               : -13.37 dB
+    Peak                     : 0.989685
+    CRC32 hash (test run)    : AE106BE9
+    CRC32 hash               : AE106BE9
+    CRC32 hash (skip zero)   : 36C268CA
+    AccurateRip v1 signature : 56064F6C (7494F0E9 w/correction)
+    AccurateRip v2 signature : 2F17E647 (4C149DA9 w/correction)
+        ->Accurately ripped with different offset (v1+v2, confidence 58+86/164, offset +6)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 06
+    Filename : /Volumes/HD1/Google Drive/Music/Red Hot Chili Peppers/[1999] Californication/06 - Californication.m4a
+    Pre-gap length : 00:00:40
+
+    Track gain               : -12.42 dB
+    Peak                     : 0.988556
+    CRC32 hash (test run)    : 00C69E4A
+    CRC32 hash               : 00C69E4A
+    CRC32 hash (skip zero)   : 07D50AB3
+    AccurateRip v1 signature : 06DBC434 (85DB04AC w/correction)
+    AccurateRip v2 signature : 13140DB8 (8F891DAD w/correction)
+        ->Accurately ripped with different offset (v1+v2, confidence 60+86/167, offset +6)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 07
+    Filename : /Volumes/HD1/Google Drive/Music/Red Hot Chili Peppers/[1999] Californication/07 - Easily.m4a
+    Pre-gap length : 00:00:63
+
+    Track gain               : -12.91 dB
+    Peak                     : 0.999969
+    CRC32 hash (test run)    : CAAD38D5
+    CRC32 hash               : CAAD38D5
+    CRC32 hash (skip zero)   : 9A9AA081
+    AccurateRip v1 signature : F4C64BD5 (EFD899EB w/correction)
+    AccurateRip v2 signature : CC9D6D64 (C5E04E3A w/correction)
+        ->Accurately ripped with different offset (v1+v2, confidence 58+87/165, offset +6)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 08
+    Filename : /Volumes/HD1/Google Drive/Music/Red Hot Chili Peppers/[1999] Californication/08 - Porcelain.m4a
+    Pre-gap length : 00:00:08
+
+    Track gain               : -7.44 dB
+    Peak                     : 0.966064
+    CRC32 hash (test run)    : 373DEE8D
+    CRC32 hash               : 373DEE8D
+    CRC32 hash (skip zero)   : A8B4BEE5
+    AccurateRip v1 signature : FBEBE035 (0EA50AF5 w/correction)
+    AccurateRip v2 signature : 684A0ECE (7B71D8FF w/correction)
+        ->Accurately ripped with different offset (v1+v2, confidence 59+86/165, offset +6)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 09
+    Filename : /Volumes/HD1/Google Drive/Music/Red Hot Chili Peppers/[1999] Californication/09 - Emit Remmus.m4a
+
+    Track gain               : -12.27 dB
+    Peak                     : 0.999969
+    CRC32 hash (test run)    : FE5A2F66
+    CRC32 hash               : FE5A2F66
+    CRC32 hash (skip zero)   : 237D27E4
+    AccurateRip v1 signature : 399A3C2E (3BBA1607 w/correction)
+    AccurateRip v2 signature : 06C2154E (0A1D4BFF w/correction)
+        ->Accurately ripped with different offset (v1+v2, confidence 57+86/164, offset +6)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 10
+    Filename : /Volumes/HD1/Google Drive/Music/Red Hot Chili Peppers/[1999] Californication/10 - I Like Dirt.m4a
+
+    Track gain               : -12.96 dB
+    Peak                     : 0.988770
+    CRC32 hash (test run)    : 8967F464
+    CRC32 hash               : 8967F464
+    CRC32 hash (skip zero)   : B3F47CD0
+    AccurateRip v1 signature : 8C93CA95 (6348CB0C w/correction)
+    AccurateRip v2 signature : F9C3E68A (CF3B1963 w/correction)
+        ->Accurately ripped with different offset (v1+v2, confidence 59+86/165, offset +6)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 11
+    Filename : /Volumes/HD1/Google Drive/Music/Red Hot Chili Peppers/[1999] Californication/11 - This Velvet Glove.m4a
+    Pre-gap length : 00:00:15
+
+    Track gain               : -12.74 dB
+    Peak                     : 1.000000
+    CRC32 hash (test run)    : CA15D92E
+    CRC32 hash               : CA15D92E
+    CRC32 hash (skip zero)   : 5200F104
+    AccurateRip v1 signature : 3BD953AF (3CA20AC1 w/correction)
+    AccurateRip v2 signature : B6C3BF69 (B5CA9B3E w/correction)
+        ->Accurately ripped with different offset (v1+v2, confidence 58+86/163, offset +6)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 12
+    Filename : /Volumes/HD1/Google Drive/Music/Red Hot Chili Peppers/[1999] Californication/12 - Savior.m4a
+
+    Track gain               : -10.79 dB
+    Peak                     : 1.000000
+    CRC32 hash (test run)    : 153F213A
+    CRC32 hash               : 153F213A
+    CRC32 hash (skip zero)   : 36762538
+    AccurateRip v1 signature : 379FF34D (7ECBB97B w/correction)
+    AccurateRip v2 signature : B5EC5212 (FAC86635 w/correction)
+        ->Accurately ripped with different offset (v1+v2, confidence 59+85/164, offset +6)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 13
+    Filename : /Volumes/HD1/Google Drive/Music/Red Hot Chili Peppers/[1999] Californication/13 - Purple Stain.m4a
+    Pre-gap length : 00:00:48
+
+    Track gain               : -13.09 dB
+    Peak                     : 0.988556
+    CRC32 hash (test run)    : 379A0A76
+    CRC32 hash               : 379A0A76
+    CRC32 hash (skip zero)   : 83EBD83D
+    AccurateRip v1 signature : 517D4DA9 (3893B826 w/correction)
+    AccurateRip v2 signature : 46B7D6D9 (2F1E6704 w/correction)
+        ->Accurately ripped with different offset (v1+v2, confidence 59+86/166, offset +6)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 14
+    Filename : /Volumes/HD1/Google Drive/Music/Red Hot Chili Peppers/[1999] Californication/14 - Right on Time.m4a
+
+    Track gain               : -12.38 dB
+    Peak                     : 0.988556
+    CRC32 hash (test run)    : 74FEEAEF
+    CRC32 hash               : 74FEEAEF
+    CRC32 hash (skip zero)   : A7A4118F
+    AccurateRip v1 signature : 14A68273 (FDB40150 w/correction)
+    AccurateRip v2 signature : A93BDFAE (91657C37 w/correction)
+        ->Accurately ripped with different offset (v1+v2, confidence 58+86/165, offset +6)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 15
+    Filename : /Volumes/HD1/Google Drive/Music/Red Hot Chili Peppers/[1999] Californication/15 - Road Trippin’.m4a
+
+    Track gain               : -8.70 dB
+    Peak                     : 0.966064
+    CRC32 hash (test run)    : 7205265D
+    CRC32 hash               : 7205265D
+    CRC32 hash (skip zero)   : E38010DF
+    AccurateRip v1 signature : 28D6F5FD (9B10EDE7 w/correction)
+    AccurateRip v2 signature : 1FD36D36 (906C9202 w/correction)
+        ->Accurately ripped with different offset (v1+v2, confidence 50+83/161, offset +6)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+No errors occurred
+
+End of status report
